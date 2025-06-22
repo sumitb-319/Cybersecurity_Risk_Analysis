@@ -1,0 +1,1001 @@
+Date,Department,Incident Type,Severity,Time to Resolve (hrs),Resolved
+2025-06-12,Finance,Ransomware,High,5.1,No
+2025-06-24,Sales,Unauthorized Access,High,15.4,Yes
+2025-06-17,Marketing,Unauthorized Access,High,71.9,No
+2025-01-17,Operations,Phishing,High,27.7,No
+2025-05-13,Finance,Phishing,Medium,7.9,Yes
+2025-03-30,Sales,Ransomware,Medium,56.0,Yes
+2025-02-26,HR,Suspicious Login,Low,65.3,No
+2025-04-17,Sales,Ransomware,High,31.4,No
+2025-06-13,Finance,Unauthorized Access,High,68.2,Yes
+2025-02-07,IT,Ransomware,Low,49.7,No
+2025-04-01,Marketing,Malware,Medium,18.6,No
+2025-01-01,Operations,Phishing,Low,1.7,Yes
+2025-05-06,Finance,Suspicious Login,High,43.5,No
+2025-01-26,IT,Ransomware,Low,3.7,No
+2025-01-24,Sales,Malware,Low,54.0,No
+2025-06-25,Finance,Unauthorized Access,Medium,4.2,Yes
+2025-03-04,Sales,Unauthorized Access,Low,23.7,Yes
+2025-05-08,Finance,Malware,High,68.0,Yes
+2025-04-28,IT,Malware,Medium,41.7,No
+2025-05-17,Finance,Suspicious Login,Low,5.9,No
+2025-02-28,HR,Unauthorized Access,Low,40.3,No
+2025-06-27,HR,Malware,Low,53.3,No
+2025-02-18,Finance,Unauthorized Access,High,54.2,No
+2025-03-05,HR,Malware,Medium,30.3,No
+2025-04-24,Finance,Phishing,Medium,47.6,No
+2025-05-20,Sales,Ransomware,High,41.0,Yes
+2025-04-29,Marketing,Phishing,Medium,62.0,Yes
+2025-03-04,Marketing,Phishing,Medium,51.8,Yes
+2025-02-19,Finance,Phishing,Medium,64.4,No
+2025-02-10,Marketing,Malware,High,40.6,Yes
+2025-05-19,Sales,Malware,High,20.8,Yes
+2025-03-04,Operations,Malware,Low,17.5,Yes
+2025-02-04,Operations,Malware,Low,35.3,Yes
+2025-04-13,Finance,Unauthorized Access,Medium,61.4,No
+2025-01-29,IT,Ransomware,High,2.4,No
+2025-02-13,IT,Ransomware,Low,44.2,Yes
+2025-01-22,Operations,Unauthorized Access,High,22.2,No
+2025-03-17,HR,Unauthorized Access,Low,69.6,No
+2025-03-29,Finance,Malware,Low,50.1,No
+2025-03-04,Finance,Malware,High,70.7,No
+2025-05-06,HR,Malware,Medium,21.7,Yes
+2025-04-24,IT,Suspicious Login,Low,49.1,Yes
+2025-06-30,Marketing,Phishing,Low,45.6,No
+2025-03-05,HR,Unauthorized Access,Low,44.5,No
+2025-05-29,Sales,Malware,High,66.7,Yes
+2025-03-10,IT,Malware,Low,2.2,Yes
+2025-06-13,Marketing,Phishing,High,20.4,No
+2025-05-02,Operations,Ransomware,Low,27.3,No
+2025-04-21,Finance,Unauthorized Access,Medium,19.0,Yes
+2025-02-28,Marketing,Phishing,High,12.7,No
+2025-03-14,Operations,Ransomware,High,39.1,Yes
+2025-02-16,IT,Malware,Medium,19.3,Yes
+2025-04-11,HR,Malware,High,2.9,No
+2025-06-04,Operations,Unauthorized Access,High,56.2,No
+2025-04-24,Marketing,Phishing,Medium,17.5,Yes
+2025-01-30,Operations,Phishing,Low,61.0,Yes
+2025-02-10,Operations,Malware,Low,24.4,No
+2025-04-08,Sales,Unauthorized Access,High,53.2,No
+2025-06-09,Operations,Ransomware,Medium,10.5,No
+2025-01-12,Marketing,Unauthorized Access,Medium,71.7,Yes
+2025-04-08,IT,Suspicious Login,High,24.0,No
+2025-05-11,Operations,Ransomware,Medium,48.1,No
+2025-01-13,Sales,Suspicious Login,Medium,49.1,No
+2025-02-20,HR,Suspicious Login,Medium,21.3,Yes
+2025-06-06,HR,Unauthorized Access,High,55.6,No
+2025-03-29,HR,Suspicious Login,Low,10.5,No
+2025-05-25,Operations,Malware,Medium,42.3,No
+2025-05-20,Finance,Malware,High,9.3,No
+2025-03-21,Sales,Unauthorized Access,High,36.9,No
+2025-02-12,HR,Suspicious Login,Low,52.2,Yes
+2025-03-03,Finance,Suspicious Login,Medium,47.5,Yes
+2025-04-09,Finance,Phishing,High,46.3,Yes
+2025-05-15,Finance,Unauthorized Access,Medium,20.6,Yes
+2025-04-19,Finance,Unauthorized Access,Low,9.6,No
+2025-02-23,Sales,Suspicious Login,Low,67.0,Yes
+2025-05-22,Operations,Unauthorized Access,Low,36.3,No
+2025-01-16,Sales,Suspicious Login,Medium,39.9,No
+2025-06-26,Sales,Phishing,Medium,64.2,No
+2025-05-04,Marketing,Ransomware,Medium,67.8,No
+2025-05-14,Marketing,Suspicious Login,Low,70.5,No
+2025-05-27,IT,Unauthorized Access,Low,40.2,No
+2025-01-23,Operations,Unauthorized Access,Low,54.9,No
+2025-03-30,Marketing,Ransomware,Medium,42.0,Yes
+2025-01-09,Marketing,Ransomware,Medium,68.3,Yes
+2025-02-16,Finance,Unauthorized Access,Medium,38.4,No
+2025-02-17,Sales,Suspicious Login,Low,53.7,Yes
+2025-05-21,IT,Unauthorized Access,Medium,37.3,No
+2025-06-25,Sales,Ransomware,Medium,5.1,No
+2025-06-29,IT,Malware,Low,53.0,Yes
+2025-01-19,HR,Suspicious Login,Medium,56.4,Yes
+2025-04-06,Marketing,Ransomware,High,36.7,No
+2025-05-31,Sales,Unauthorized Access,High,48.8,No
+2025-02-06,Sales,Phishing,Medium,65.9,Yes
+2025-02-28,IT,Malware,Low,51.1,Yes
+2025-01-17,Operations,Malware,Low,65.3,Yes
+2025-01-18,HR,Unauthorized Access,Medium,17.8,Yes
+2025-04-14,Marketing,Unauthorized Access,Medium,5.9,Yes
+2025-06-29,Sales,Phishing,Medium,23.5,No
+2025-02-10,Finance,Ransomware,Low,2.1,Yes
+2025-02-24,Finance,Ransomware,Medium,59.3,No
+2025-01-27,Operations,Ransomware,Medium,21.8,No
+2025-03-10,Marketing,Phishing,High,30.8,No
+2025-02-05,Sales,Phishing,Medium,37.2,No
+2025-06-24,HR,Phishing,High,13.9,Yes
+2025-04-23,Marketing,Phishing,Low,65.4,Yes
+2025-03-05,Marketing,Unauthorized Access,High,59.8,Yes
+2025-02-20,Operations,Ransomware,High,21.7,Yes
+2025-06-25,Sales,Phishing,Low,6.9,Yes
+2025-03-23,HR,Ransomware,High,46.1,No
+2025-05-07,Operations,Ransomware,Low,34.7,No
+2025-02-13,HR,Unauthorized Access,High,69.6,Yes
+2025-04-26,IT,Unauthorized Access,Medium,9.1,Yes
+2025-01-10,Operations,Phishing,Low,41.2,Yes
+2025-04-15,Finance,Malware,High,4.5,Yes
+2025-02-24,Sales,Phishing,High,32.3,Yes
+2025-02-19,Sales,Ransomware,Medium,56.8,Yes
+2025-04-05,Finance,Unauthorized Access,High,37.2,No
+2025-04-20,Sales,Unauthorized Access,Medium,48.8,No
+2025-02-19,Operations,Phishing,High,18.0,No
+2025-03-11,HR,Malware,High,66.6,Yes
+2025-06-06,Marketing,Malware,High,18.7,No
+2025-02-12,HR,Phishing,High,29.3,Yes
+2025-03-11,HR,Malware,Low,62.6,Yes
+2025-01-16,IT,Suspicious Login,Medium,37.6,No
+2025-06-29,HR,Suspicious Login,High,55.4,No
+2025-01-15,Sales,Suspicious Login,Low,15.6,Yes
+2025-06-07,Finance,Unauthorized Access,High,69.2,No
+2025-03-02,Sales,Phishing,Low,61.0,Yes
+2025-03-24,Finance,Phishing,Medium,8.5,Yes
+2025-01-19,Operations,Suspicious Login,Low,37.8,Yes
+2025-01-15,Sales,Phishing,Medium,64.9,Yes
+2025-03-10,IT,Unauthorized Access,Medium,64.0,Yes
+2025-05-28,Finance,Unauthorized Access,High,49.3,Yes
+2025-04-13,Finance,Phishing,Low,15.1,No
+2025-04-20,IT,Ransomware,Low,62.6,No
+2025-01-14,Operations,Phishing,Low,62.0,Yes
+2025-05-29,Sales,Malware,Medium,52.0,No
+2025-02-28,Sales,Suspicious Login,High,55.4,Yes
+2025-06-15,Marketing,Phishing,Low,64.8,Yes
+2025-03-04,Marketing,Suspicious Login,High,57.6,Yes
+2025-02-12,Operations,Unauthorized Access,High,27.4,Yes
+2025-04-16,Sales,Phishing,High,26.7,No
+2025-01-29,IT,Malware,Low,9.3,No
+2025-03-10,IT,Phishing,High,15.7,Yes
+2025-02-07,Finance,Unauthorized Access,Medium,52.0,No
+2025-05-19,IT,Unauthorized Access,High,60.3,Yes
+2025-02-10,Operations,Suspicious Login,High,51.8,Yes
+2025-06-22,Operations,Unauthorized Access,Medium,16.3,Yes
+2025-06-01,Finance,Suspicious Login,Low,50.8,Yes
+2025-06-05,Sales,Unauthorized Access,Low,24.1,No
+2025-06-27,HR,Phishing,High,60.3,No
+2025-05-01,Marketing,Malware,Low,8.6,Yes
+2025-03-25,HR,Malware,Low,51.7,No
+2025-06-24,Finance,Ransomware,Low,37.1,No
+2025-01-01,IT,Ransomware,Medium,56.2,Yes
+2025-03-24,Sales,Unauthorized Access,Low,9.5,No
+2025-02-26,IT,Ransomware,High,6.9,No
+2025-02-05,IT,Unauthorized Access,Medium,16.1,No
+2025-03-08,Finance,Ransomware,Medium,62.5,Yes
+2025-02-16,Sales,Malware,Low,20.4,No
+2025-03-17,Sales,Suspicious Login,High,33.4,No
+2025-02-18,IT,Unauthorized Access,Medium,10.2,No
+2025-05-17,Operations,Suspicious Login,Medium,33.1,Yes
+2025-06-01,HR,Suspicious Login,Low,28.4,No
+2025-01-06,IT,Ransomware,Low,50.1,No
+2025-03-19,Sales,Phishing,Medium,56.3,Yes
+2025-03-09,Sales,Unauthorized Access,Medium,5.8,No
+2025-01-23,Operations,Malware,Low,45.0,No
+2025-01-18,Finance,Malware,High,48.8,No
+2025-04-21,Sales,Phishing,Medium,10.0,No
+2025-01-11,IT,Phishing,High,2.7,No
+2025-01-07,Operations,Ransomware,Medium,45.4,No
+2025-06-12,IT,Malware,Low,46.1,Yes
+2025-05-28,Finance,Malware,Medium,7.8,No
+2025-01-07,Finance,Phishing,High,17.0,No
+2025-05-22,IT,Phishing,Low,18.6,Yes
+2025-01-28,Sales,Ransomware,Low,33.4,Yes
+2025-01-14,Finance,Ransomware,Medium,3.8,No
+2025-05-24,HR,Malware,Medium,47.8,Yes
+2025-06-29,IT,Unauthorized Access,Medium,8.4,No
+2025-05-20,HR,Phishing,Low,45.6,Yes
+2025-01-30,Operations,Unauthorized Access,High,29.6,Yes
+2025-05-27,HR,Phishing,Low,49.7,Yes
+2025-01-14,Operations,Unauthorized Access,Medium,51.5,No
+2025-02-21,Marketing,Malware,Medium,25.4,Yes
+2025-02-08,Sales,Malware,Low,40.4,Yes
+2025-06-13,Operations,Phishing,High,32.3,No
+2025-03-25,Operations,Malware,Medium,27.9,No
+2025-05-27,IT,Phishing,High,8.4,No
+2025-04-12,IT,Unauthorized Access,Medium,47.6,Yes
+2025-06-29,Marketing,Phishing,High,69.0,Yes
+2025-04-09,Operations,Malware,High,36.9,No
+2025-02-14,Marketing,Phishing,High,27.6,Yes
+2025-03-12,HR,Malware,High,57.4,No
+2025-02-20,Sales,Ransomware,Low,33.0,No
+2025-06-19,HR,Unauthorized Access,Low,9.5,Yes
+2025-03-11,Finance,Malware,Medium,7.3,Yes
+2025-03-30,Marketing,Phishing,Medium,58.7,Yes
+2025-03-29,Marketing,Suspicious Login,Low,37.7,Yes
+2025-03-08,Finance,Unauthorized Access,High,39.3,Yes
+2025-05-05,Sales,Ransomware,Medium,10.7,Yes
+2025-01-08,Marketing,Suspicious Login,High,29.3,No
+2025-01-17,HR,Unauthorized Access,High,38.4,Yes
+2025-03-04,IT,Malware,Low,47.6,No
+2025-06-23,Finance,Phishing,Low,40.7,Yes
+2025-03-20,IT,Phishing,Low,54.2,Yes
+2025-02-20,Marketing,Malware,Low,27.6,No
+2025-01-28,HR,Phishing,Low,34.8,Yes
+2025-03-27,Finance,Suspicious Login,Medium,58.2,No
+2025-06-28,Marketing,Phishing,Low,56.8,Yes
+2025-02-15,HR,Malware,Medium,36.9,No
+2025-04-25,Marketing,Phishing,Low,68.7,No
+2025-05-01,Marketing,Ransomware,High,68.3,No
+2025-02-17,Sales,Malware,High,59.3,No
+2025-04-07,IT,Malware,Medium,43.5,Yes
+2025-02-09,Marketing,Phishing,Medium,34.3,No
+2025-03-11,Operations,Unauthorized Access,Low,66.5,No
+2025-06-08,IT,Phishing,Medium,3.9,Yes
+2025-02-17,HR,Ransomware,Low,49.4,Yes
+2025-05-08,Finance,Phishing,High,42.7,Yes
+2025-04-12,Finance,Ransomware,Low,70.4,Yes
+2025-06-07,Sales,Ransomware,Medium,23.2,No
+2025-06-22,HR,Suspicious Login,High,47.9,Yes
+2025-01-28,HR,Suspicious Login,Low,10.5,No
+2025-04-29,Finance,Malware,Low,45.6,No
+2025-02-09,HR,Suspicious Login,Low,32.5,Yes
+2025-05-22,Marketing,Unauthorized Access,High,7.2,No
+2025-06-05,Marketing,Unauthorized Access,Medium,53.0,No
+2025-06-17,IT,Phishing,Low,6.1,No
+2025-02-11,IT,Unauthorized Access,High,64.2,No
+2025-05-14,IT,Ransomware,Medium,50.5,Yes
+2025-06-23,Operations,Phishing,High,59.1,Yes
+2025-06-06,HR,Malware,Low,8.2,No
+2025-06-02,Finance,Unauthorized Access,Low,50.2,Yes
+2025-03-03,HR,Malware,Medium,66.6,Yes
+2025-02-07,Sales,Unauthorized Access,Medium,47.3,Yes
+2025-05-15,Marketing,Unauthorized Access,Medium,33.6,Yes
+2025-05-12,Operations,Phishing,Low,37.8,No
+2025-04-04,Sales,Suspicious Login,Medium,50.7,Yes
+2025-05-05,HR,Phishing,High,10.0,No
+2025-04-21,Operations,Phishing,High,12.5,No
+2025-05-08,Finance,Unauthorized Access,High,32.2,No
+2025-05-05,Marketing,Ransomware,Low,67.0,Yes
+2025-05-29,Marketing,Unauthorized Access,Medium,34.7,No
+2025-03-27,IT,Suspicious Login,Medium,28.8,No
+2025-05-11,HR,Suspicious Login,Medium,5.3,Yes
+2025-03-06,Operations,Suspicious Login,Medium,14.7,No
+2025-05-29,Sales,Malware,Medium,39.3,Yes
+2025-05-27,Sales,Malware,High,1.6,No
+2025-02-19,HR,Phishing,Low,15.8,No
+2025-01-09,Operations,Suspicious Login,High,40.7,No
+2025-06-24,Operations,Suspicious Login,High,13.1,No
+2025-02-26,Finance,Suspicious Login,Medium,28.8,Yes
+2025-02-06,Operations,Ransomware,Medium,41.7,Yes
+2025-06-10,Operations,Phishing,Low,39.2,No
+2025-02-27,Sales,Malware,High,62.2,No
+2025-02-24,Finance,Suspicious Login,Low,20.4,No
+2025-06-04,IT,Malware,Medium,68.7,Yes
+2025-06-26,Operations,Ransomware,Low,48.4,No
+2025-03-24,Operations,Malware,Low,36.3,Yes
+2025-02-18,Finance,Suspicious Login,Medium,4.5,No
+2025-03-09,HR,Ransomware,High,7.3,Yes
+2025-02-20,HR,Phishing,Low,16.8,No
+2025-06-17,Marketing,Ransomware,Medium,38.0,No
+2025-02-15,IT,Ransomware,Low,60.0,No
+2025-02-26,Operations,Suspicious Login,Low,49.4,No
+2025-05-09,HR,Malware,High,33.1,Yes
+2025-06-13,HR,Phishing,Medium,17.6,No
+2025-03-24,Operations,Unauthorized Access,Medium,10.5,Yes
+2025-04-11,IT,Suspicious Login,Low,38.6,Yes
+2025-05-28,Sales,Ransomware,High,64.2,No
+2025-02-21,Operations,Malware,High,49.9,Yes
+2025-04-04,Marketing,Unauthorized Access,Medium,28.2,No
+2025-05-31,HR,Unauthorized Access,Low,29.7,Yes
+2025-04-22,IT,Phishing,Low,67.6,No
+2025-04-16,Finance,Phishing,High,54.6,Yes
+2025-06-17,HR,Ransomware,Low,66.6,No
+2025-02-18,Operations,Unauthorized Access,Low,26.4,No
+2025-05-05,Marketing,Ransomware,High,25.0,Yes
+2025-04-28,Operations,Suspicious Login,Medium,60.4,Yes
+2025-05-01,Sales,Malware,High,4.9,No
+2025-02-22,Marketing,Unauthorized Access,High,23.7,Yes
+2025-04-25,IT,Unauthorized Access,Medium,59.8,Yes
+2025-01-22,HR,Unauthorized Access,Medium,38.8,Yes
+2025-06-22,Operations,Phishing,Low,16.5,No
+2025-05-16,Operations,Ransomware,Low,63.0,Yes
+2025-01-25,IT,Unauthorized Access,High,71.3,No
+2025-03-27,IT,Suspicious Login,Low,42.5,Yes
+2025-03-12,IT,Phishing,High,49.2,Yes
+2025-05-12,Finance,Malware,Medium,63.2,No
+2025-04-17,Operations,Ransomware,Medium,40.1,Yes
+2025-06-01,Marketing,Ransomware,Medium,42.8,Yes
+2025-04-24,Sales,Unauthorized Access,High,50.0,Yes
+2025-03-09,Marketing,Ransomware,High,44.4,Yes
+2025-03-30,Finance,Phishing,Medium,13.6,Yes
+2025-03-16,HR,Unauthorized Access,High,71.4,Yes
+2025-04-02,IT,Unauthorized Access,Low,24.0,No
+2025-01-31,IT,Phishing,Low,3.4,Yes
+2025-04-13,Marketing,Suspicious Login,High,5.3,No
+2025-06-21,Operations,Unauthorized Access,Medium,68.1,Yes
+2025-03-07,Finance,Ransomware,High,3.9,Yes
+2025-05-09,IT,Phishing,Low,20.3,No
+2025-03-02,Operations,Ransomware,High,12.7,Yes
+2025-03-31,IT,Phishing,High,3.1,No
+2025-03-16,Operations,Suspicious Login,Medium,59.7,Yes
+2025-01-13,Operations,Malware,Low,49.1,No
+2025-01-31,Operations,Suspicious Login,High,54.5,No
+2025-01-01,Finance,Malware,Low,39.2,Yes
+2025-02-01,Marketing,Suspicious Login,High,26.9,Yes
+2025-03-11,Operations,Phishing,Low,12.6,Yes
+2025-02-26,Finance,Ransomware,Medium,20.0,No
+2025-02-19,IT,Phishing,High,67.3,No
+2025-06-10,IT,Unauthorized Access,Medium,29.2,Yes
+2025-05-31,Marketing,Phishing,Low,2.7,No
+2025-05-18,HR,Suspicious Login,High,4.6,Yes
+2025-04-29,Operations,Malware,Low,44.0,No
+2025-05-18,Sales,Malware,Medium,42.2,No
+2025-06-26,Sales,Unauthorized Access,Low,19.9,Yes
+2025-06-16,Sales,Unauthorized Access,Low,36.0,No
+2025-04-03,IT,Unauthorized Access,Medium,42.2,Yes
+2025-04-04,IT,Malware,Low,35.3,Yes
+2025-06-23,Operations,Suspicious Login,High,9.1,No
+2025-06-25,Finance,Phishing,Medium,8.8,No
+2025-05-16,IT,Suspicious Login,Medium,59.7,Yes
+2025-05-17,HR,Unauthorized Access,Medium,50.3,Yes
+2025-06-09,IT,Unauthorized Access,Medium,49.5,No
+2025-05-29,Sales,Malware,Medium,47.5,Yes
+2025-03-20,HR,Malware,Low,6.3,Yes
+2025-02-06,IT,Ransomware,Low,18.7,No
+2025-05-17,Marketing,Malware,Medium,23.6,No
+2025-02-14,HR,Malware,Low,65.1,No
+2025-02-02,IT,Unauthorized Access,Low,70.3,Yes
+2025-04-13,Operations,Malware,Low,15.1,Yes
+2025-06-15,Sales,Phishing,Medium,50.2,No
+2025-04-10,Finance,Phishing,Low,50.7,Yes
+2025-06-29,HR,Phishing,Medium,38.6,No
+2025-01-19,HR,Malware,Low,39.1,Yes
+2025-06-02,Finance,Phishing,High,59.6,No
+2025-05-03,HR,Ransomware,Medium,65.0,Yes
+2025-04-21,Finance,Suspicious Login,Medium,70.3,Yes
+2025-01-10,IT,Malware,Medium,48.5,No
+2025-02-20,Sales,Malware,Medium,56.5,No
+2025-02-22,IT,Unauthorized Access,High,63.7,No
+2025-06-03,IT,Ransomware,Low,6.0,Yes
+2025-05-09,HR,Unauthorized Access,Medium,69.8,Yes
+2025-05-11,Finance,Phishing,High,57.3,No
+2025-03-08,HR,Ransomware,Medium,39.7,Yes
+2025-01-19,Sales,Suspicious Login,Medium,11.3,Yes
+2025-06-29,IT,Malware,Medium,44.9,No
+2025-02-21,IT,Phishing,Medium,40.6,Yes
+2025-05-18,IT,Unauthorized Access,Medium,31.9,Yes
+2025-06-24,Sales,Ransomware,Medium,55.1,No
+2025-02-24,Sales,Unauthorized Access,Medium,6.3,No
+2025-06-24,IT,Suspicious Login,Low,48.4,No
+2025-01-08,Operations,Unauthorized Access,Medium,45.9,No
+2025-04-20,HR,Unauthorized Access,High,49.7,No
+2025-02-02,HR,Ransomware,High,65.2,Yes
+2025-05-23,HR,Unauthorized Access,Low,25.1,Yes
+2025-04-02,Operations,Unauthorized Access,Low,10.4,No
+2025-04-04,Operations,Suspicious Login,Medium,34.8,Yes
+2025-04-12,Finance,Phishing,Medium,22.7,Yes
+2025-02-25,HR,Phishing,Low,70.3,No
+2025-06-24,Marketing,Malware,High,61.2,Yes
+2025-05-13,Operations,Unauthorized Access,Medium,35.1,No
+2025-06-30,IT,Phishing,Low,15.3,Yes
+2025-05-03,Operations,Malware,Medium,23.5,Yes
+2025-06-20,Finance,Malware,Medium,43.7,Yes
+2025-04-11,Operations,Phishing,Low,13.4,No
+2025-02-17,Operations,Phishing,High,23.3,Yes
+2025-04-22,Operations,Ransomware,Low,50.7,Yes
+2025-03-22,Finance,Suspicious Login,Low,29.8,Yes
+2025-01-12,HR,Ransomware,Medium,28.9,Yes
+2025-04-02,Sales,Suspicious Login,Low,53.3,No
+2025-01-03,HR,Phishing,Medium,6.2,No
+2025-02-16,IT,Malware,High,43.8,No
+2025-06-20,Marketing,Unauthorized Access,Low,67.1,Yes
+2025-05-30,HR,Unauthorized Access,Low,37.3,Yes
+2025-01-24,Operations,Phishing,High,65.6,No
+2025-01-06,Marketing,Phishing,High,15.0,Yes
+2025-03-07,HR,Malware,Low,37.6,Yes
+2025-02-11,Sales,Unauthorized Access,High,67.1,No
+2025-06-02,Marketing,Malware,Medium,23.2,Yes
+2025-02-17,HR,Malware,Medium,7.6,No
+2025-06-10,Finance,Malware,Medium,67.0,No
+2025-01-09,Marketing,Suspicious Login,High,22.4,Yes
+2025-06-21,Sales,Phishing,Medium,1.5,Yes
+2025-02-16,Marketing,Ransomware,Medium,50.2,Yes
+2025-04-17,Marketing,Suspicious Login,Medium,66.2,Yes
+2025-06-13,Operations,Ransomware,High,9.9,No
+2025-06-03,HR,Phishing,High,71.5,No
+2025-06-23,Operations,Unauthorized Access,Medium,26.8,No
+2025-04-01,Operations,Malware,High,42.8,No
+2025-01-26,Marketing,Ransomware,Medium,25.2,No
+2025-01-27,IT,Phishing,Medium,34.4,Yes
+2025-05-14,IT,Suspicious Login,Medium,58.5,No
+2025-04-13,Marketing,Malware,High,63.8,Yes
+2025-01-13,HR,Suspicious Login,Medium,25.9,No
+2025-04-21,IT,Malware,High,2.6,Yes
+2025-01-10,Operations,Phishing,Medium,26.9,No
+2025-01-07,Operations,Suspicious Login,High,19.6,No
+2025-02-25,Operations,Ransomware,Medium,37.1,No
+2025-02-26,Operations,Suspicious Login,Low,22.8,No
+2025-02-03,Sales,Suspicious Login,Medium,66.6,Yes
+2025-01-24,Finance,Phishing,Low,19.5,Yes
+2025-01-18,Sales,Ransomware,Low,9.1,Yes
+2025-01-21,Marketing,Unauthorized Access,High,13.2,No
+2025-06-20,Marketing,Ransomware,High,12.7,Yes
+2025-04-24,Sales,Unauthorized Access,Low,62.0,Yes
+2025-02-05,IT,Suspicious Login,High,20.6,Yes
+2025-03-03,Finance,Phishing,Medium,63.0,Yes
+2025-02-11,HR,Malware,High,31.4,No
+2025-03-24,Operations,Ransomware,Low,49.0,No
+2025-06-06,Finance,Suspicious Login,Medium,65.1,No
+2025-04-29,Sales,Ransomware,High,62.7,Yes
+2025-04-08,IT,Suspicious Login,High,24.6,No
+2025-06-07,HR,Unauthorized Access,Medium,35.0,Yes
+2025-06-09,Sales,Unauthorized Access,High,58.4,No
+2025-06-20,Sales,Unauthorized Access,High,35.2,No
+2025-05-04,HR,Unauthorized Access,High,7.3,No
+2025-05-07,IT,Phishing,Low,44.5,No
+2025-05-25,Sales,Ransomware,High,64.4,No
+2025-06-24,Finance,Unauthorized Access,Low,61.3,No
+2025-06-23,IT,Suspicious Login,High,45.8,No
+2025-03-18,HR,Phishing,Medium,17.5,No
+2025-05-09,IT,Ransomware,Medium,69.1,No
+2025-04-24,Marketing,Unauthorized Access,High,18.5,No
+2025-05-04,IT,Ransomware,Medium,37.9,No
+2025-01-04,IT,Phishing,High,57.6,Yes
+2025-04-14,Operations,Suspicious Login,Medium,28.5,Yes
+2025-03-08,IT,Unauthorized Access,High,45.0,Yes
+2025-06-06,Marketing,Malware,High,44.5,No
+2025-05-02,Sales,Phishing,Medium,13.4,Yes
+2025-02-20,Marketing,Phishing,Medium,58.0,Yes
+2025-03-20,Sales,Malware,High,18.3,Yes
+2025-06-14,Marketing,Suspicious Login,High,56.9,Yes
+2025-04-25,IT,Malware,High,19.9,No
+2025-03-31,Operations,Unauthorized Access,High,68.4,Yes
+2025-06-10,Marketing,Malware,High,19.9,No
+2025-01-31,Finance,Suspicious Login,High,61.5,Yes
+2025-06-15,Finance,Unauthorized Access,Low,29.0,No
+2025-05-25,Finance,Malware,High,49.2,No
+2025-06-20,Finance,Suspicious Login,Low,8.6,No
+2025-01-18,HR,Suspicious Login,High,49.1,No
+2025-03-20,Operations,Ransomware,Low,9.3,Yes
+2025-03-13,HR,Suspicious Login,Medium,35.3,Yes
+2025-03-26,Sales,Phishing,Medium,27.0,No
+2025-02-15,Finance,Unauthorized Access,Low,26.5,Yes
+2025-06-22,Operations,Unauthorized Access,High,11.9,No
+2025-05-05,Finance,Ransomware,Low,27.2,No
+2025-06-27,Operations,Ransomware,Low,50.9,No
+2025-04-10,Marketing,Suspicious Login,High,32.5,No
+2025-01-04,Finance,Phishing,Low,36.5,Yes
+2025-03-10,Finance,Malware,Low,69.4,No
+2025-03-24,IT,Ransomware,High,2.9,Yes
+2025-06-19,Marketing,Phishing,Medium,18.6,No
+2025-02-28,Operations,Malware,Medium,42.3,Yes
+2025-05-29,HR,Malware,Medium,21.0,No
+2025-04-23,HR,Phishing,Low,34.7,No
+2025-01-02,IT,Ransomware,Low,6.5,Yes
+2025-05-31,Operations,Ransomware,High,11.6,Yes
+2025-04-04,Finance,Suspicious Login,High,49.1,No
+2025-04-21,Sales,Suspicious Login,Medium,10.3,Yes
+2025-03-05,Marketing,Ransomware,High,59.7,Yes
+2025-02-05,Finance,Malware,Medium,48.8,Yes
+2025-05-27,Operations,Ransomware,Low,17.8,Yes
+2025-06-08,Finance,Malware,High,51.2,Yes
+2025-04-13,HR,Phishing,Medium,41.8,Yes
+2025-03-21,Finance,Ransomware,Low,26.9,No
+2025-06-12,Finance,Ransomware,Low,32.1,No
+2025-04-08,Marketing,Phishing,Low,48.9,Yes
+2025-06-15,Marketing,Unauthorized Access,Low,30.1,Yes
+2025-04-11,Finance,Unauthorized Access,High,36.6,Yes
+2025-01-08,Sales,Ransomware,Low,13.0,No
+2025-01-30,IT,Ransomware,Low,26.8,No
+2025-05-18,Sales,Malware,Medium,66.4,Yes
+2025-06-28,IT,Ransomware,High,59.7,No
+2025-06-20,Marketing,Suspicious Login,Low,33.6,Yes
+2025-05-16,IT,Phishing,Low,31.0,Yes
+2025-01-18,IT,Malware,Medium,30.1,No
+2025-06-21,Marketing,Unauthorized Access,Medium,8.4,Yes
+2025-02-09,HR,Unauthorized Access,Medium,3.0,Yes
+2025-04-14,Sales,Ransomware,Low,7.7,Yes
+2025-03-12,Marketing,Malware,Medium,26.0,Yes
+2025-05-18,Sales,Suspicious Login,Low,47.5,Yes
+2025-01-08,Finance,Malware,Medium,13.8,No
+2025-04-20,Marketing,Unauthorized Access,High,20.3,Yes
+2025-03-27,HR,Suspicious Login,Low,68.5,No
+2025-01-23,IT,Unauthorized Access,High,9.9,Yes
+2025-04-13,Finance,Suspicious Login,Low,17.5,No
+2025-01-27,Sales,Suspicious Login,Medium,45.7,No
+2025-03-06,Finance,Unauthorized Access,Low,7.4,Yes
+2025-03-31,IT,Phishing,High,30.0,Yes
+2025-01-31,IT,Phishing,Medium,67.3,Yes
+2025-04-22,HR,Malware,High,20.4,Yes
+2025-01-16,Marketing,Phishing,Medium,25.8,No
+2025-06-06,Operations,Ransomware,Low,13.9,No
+2025-03-19,IT,Malware,Medium,25.8,No
+2025-05-27,IT,Phishing,Medium,51.1,Yes
+2025-03-14,Sales,Unauthorized Access,Medium,31.1,Yes
+2025-02-21,Finance,Suspicious Login,Low,32.0,Yes
+2025-05-16,HR,Unauthorized Access,High,39.6,Yes
+2025-06-24,IT,Ransomware,High,9.8,Yes
+2025-03-11,Finance,Unauthorized Access,Medium,33.0,Yes
+2025-06-19,Finance,Unauthorized Access,High,27.9,Yes
+2025-01-26,Operations,Phishing,High,48.9,Yes
+2025-01-26,Operations,Phishing,Low,65.6,No
+2025-03-27,Sales,Suspicious Login,Medium,15.6,No
+2025-05-27,HR,Ransomware,Medium,67.3,Yes
+2025-06-15,HR,Suspicious Login,High,54.3,No
+2025-06-19,Operations,Unauthorized Access,Medium,68.8,No
+2025-06-18,IT,Suspicious Login,Low,49.9,Yes
+2025-03-09,Marketing,Unauthorized Access,Low,42.1,No
+2025-04-20,Sales,Phishing,Low,67.9,No
+2025-05-11,IT,Suspicious Login,Medium,46.1,No
+2025-06-13,Finance,Suspicious Login,Medium,33.0,No
+2025-04-02,HR,Unauthorized Access,Medium,27.0,No
+2025-02-19,HR,Malware,Low,19.3,Yes
+2025-05-08,Operations,Unauthorized Access,Low,40.3,No
+2025-03-23,IT,Phishing,Medium,51.8,Yes
+2025-04-23,Sales,Ransomware,Medium,3.7,No
+2025-06-30,Finance,Phishing,Medium,71.1,Yes
+2025-01-15,Finance,Suspicious Login,High,59.6,No
+2025-04-05,Sales,Malware,High,46.7,Yes
+2025-05-21,Sales,Suspicious Login,Medium,5.9,No
+2025-06-29,Sales,Ransomware,Medium,41.5,Yes
+2025-06-13,Marketing,Ransomware,High,69.8,Yes
+2025-05-06,HR,Suspicious Login,Medium,14.7,Yes
+2025-05-13,Operations,Phishing,High,34.2,Yes
+2025-02-13,IT,Suspicious Login,High,41.8,Yes
+2025-03-03,Sales,Unauthorized Access,Medium,50.7,No
+2025-01-02,Finance,Ransomware,High,38.5,Yes
+2025-02-24,Marketing,Phishing,High,43.8,Yes
+2025-06-28,IT,Ransomware,High,50.7,No
+2025-06-02,IT,Malware,Medium,71.4,Yes
+2025-02-01,Sales,Unauthorized Access,Low,68.9,Yes
+2025-01-07,Finance,Suspicious Login,Low,8.3,Yes
+2025-02-02,Sales,Suspicious Login,Medium,55.6,Yes
+2025-01-12,Sales,Malware,Medium,65.1,No
+2025-01-29,Sales,Suspicious Login,High,17.5,No
+2025-05-26,Marketing,Unauthorized Access,Medium,55.1,Yes
+2025-03-29,Finance,Malware,High,59.1,No
+2025-03-24,Sales,Ransomware,Medium,26.0,Yes
+2025-05-18,IT,Suspicious Login,High,41.8,No
+2025-06-11,Sales,Malware,High,65.8,Yes
+2025-06-02,Sales,Malware,High,35.5,No
+2025-01-14,IT,Unauthorized Access,High,27.0,Yes
+2025-03-15,IT,Phishing,Medium,12.3,No
+2025-02-15,Marketing,Unauthorized Access,Medium,19.8,No
+2025-02-28,Operations,Phishing,High,30.5,No
+2025-06-21,Sales,Ransomware,Low,16.1,Yes
+2025-06-04,Operations,Phishing,High,4.8,No
+2025-06-09,Marketing,Unauthorized Access,Low,24.3,No
+2025-01-12,Sales,Unauthorized Access,Low,64.8,No
+2025-02-03,Sales,Ransomware,Low,52.5,Yes
+2025-06-28,Operations,Unauthorized Access,High,53.4,Yes
+2025-01-03,Operations,Phishing,Medium,48.5,Yes
+2025-06-10,HR,Ransomware,Medium,5.8,Yes
+2025-01-31,Marketing,Unauthorized Access,Medium,6.1,Yes
+2025-04-02,Operations,Ransomware,Medium,35.6,No
+2025-05-16,Operations,Suspicious Login,Medium,5.5,No
+2025-06-02,Operations,Unauthorized Access,Medium,13.4,Yes
+2025-02-11,IT,Unauthorized Access,Medium,46.8,No
+2025-04-02,Operations,Phishing,Medium,61.5,No
+2025-04-24,IT,Suspicious Login,Medium,21.4,No
+2025-01-19,Operations,Unauthorized Access,Low,51.8,Yes
+2025-01-06,Finance,Phishing,Low,14.1,No
+2025-05-04,Marketing,Ransomware,Low,19.5,No
+2025-02-14,Operations,Suspicious Login,High,59.4,No
+2025-01-30,Finance,Ransomware,Low,54.5,No
+2025-02-09,Sales,Unauthorized Access,Medium,35.7,Yes
+2025-05-02,Sales,Unauthorized Access,High,66.7,No
+2025-03-29,Marketing,Phishing,Medium,10.6,No
+2025-04-01,HR,Phishing,Low,67.4,No
+2025-02-20,Finance,Unauthorized Access,Low,37.9,No
+2025-03-16,HR,Unauthorized Access,Low,33.8,Yes
+2025-03-17,HR,Malware,Medium,10.2,No
+2025-05-29,IT,Unauthorized Access,Low,51.2,Yes
+2025-02-23,HR,Malware,Low,39.3,No
+2025-02-17,Operations,Unauthorized Access,High,50.9,No
+2025-05-31,HR,Phishing,High,36.5,No
+2025-05-09,Marketing,Malware,Medium,24.0,No
+2025-05-05,Finance,Ransomware,Medium,17.5,No
+2025-01-23,IT,Unauthorized Access,Medium,23.7,No
+2025-06-19,Operations,Ransomware,High,6.7,Yes
+2025-03-09,Sales,Unauthorized Access,High,30.5,Yes
+2025-05-04,IT,Unauthorized Access,Low,23.9,Yes
+2025-05-28,Sales,Ransomware,Low,36.6,No
+2025-05-31,HR,Suspicious Login,Medium,14.7,Yes
+2025-01-16,Sales,Unauthorized Access,Low,19.3,No
+2025-04-26,HR,Unauthorized Access,High,70.0,Yes
+2025-03-01,IT,Unauthorized Access,High,55.2,Yes
+2025-04-24,Marketing,Ransomware,Low,71.5,Yes
+2025-04-24,IT,Ransomware,Medium,44.1,No
+2025-03-04,Operations,Unauthorized Access,High,42.6,No
+2025-01-15,HR,Suspicious Login,Medium,36.4,No
+2025-03-19,Operations,Ransomware,Low,58.1,No
+2025-03-24,Finance,Phishing,High,36.1,No
+2025-04-03,Sales,Ransomware,High,1.5,No
+2025-05-13,IT,Malware,High,13.8,Yes
+2025-04-18,Marketing,Malware,High,63.1,No
+2025-02-17,Finance,Malware,Low,60.7,No
+2025-03-08,HR,Ransomware,Low,67.4,No
+2025-05-26,IT,Ransomware,Low,17.6,No
+2025-05-11,IT,Suspicious Login,Medium,23.1,Yes
+2025-02-17,HR,Ransomware,High,32.3,No
+2025-06-01,IT,Unauthorized Access,Medium,21.2,No
+2025-05-21,Operations,Malware,Medium,26.4,No
+2025-02-12,Marketing,Malware,High,13.8,Yes
+2025-06-12,Sales,Suspicious Login,Medium,5.4,Yes
+2025-03-22,IT,Phishing,High,13.6,No
+2025-01-24,HR,Malware,Low,23.9,No
+2025-06-16,Operations,Suspicious Login,Medium,9.2,No
+2025-03-20,Marketing,Malware,Low,37.6,Yes
+2025-06-10,Marketing,Malware,High,41.3,Yes
+2025-06-21,Operations,Phishing,High,11.2,No
+2025-05-24,Finance,Suspicious Login,Medium,27.5,No
+2025-05-29,HR,Phishing,High,39.1,Yes
+2025-03-15,Marketing,Suspicious Login,Medium,57.5,Yes
+2025-04-02,Operations,Ransomware,High,38.8,No
+2025-06-27,Sales,Malware,High,20.0,Yes
+2025-06-01,Sales,Ransomware,High,28.1,Yes
+2025-05-02,Sales,Unauthorized Access,Low,18.9,Yes
+2025-06-24,Sales,Malware,Medium,33.0,No
+2025-01-17,IT,Unauthorized Access,Low,41.8,No
+2025-05-29,Marketing,Malware,Medium,68.2,Yes
+2025-05-04,Marketing,Suspicious Login,High,64.1,No
+2025-05-10,Sales,Suspicious Login,High,61.6,Yes
+2025-04-14,Sales,Suspicious Login,Medium,49.7,No
+2025-03-29,IT,Ransomware,High,48.2,Yes
+2025-05-20,IT,Phishing,Low,48.5,No
+2025-06-07,Operations,Suspicious Login,Medium,12.7,No
+2025-03-01,IT,Malware,Medium,9.5,Yes
+2025-06-27,IT,Phishing,Medium,47.3,No
+2025-05-31,HR,Phishing,High,34.2,Yes
+2025-03-28,IT,Ransomware,High,52.3,Yes
+2025-03-18,IT,Unauthorized Access,High,64.2,No
+2025-06-22,Operations,Suspicious Login,Medium,65.9,Yes
+2025-01-28,HR,Malware,Medium,26.5,No
+2025-05-14,Finance,Unauthorized Access,High,29.1,Yes
+2025-03-04,Operations,Ransomware,High,63.5,No
+2025-01-06,Sales,Phishing,Medium,56.4,No
+2025-05-08,Finance,Ransomware,Medium,21.6,No
+2025-06-12,Finance,Unauthorized Access,Low,60.3,No
+2025-02-08,IT,Unauthorized Access,Medium,36.7,Yes
+2025-05-30,Marketing,Unauthorized Access,Medium,63.5,No
+2025-01-28,IT,Phishing,Low,60.3,No
+2025-02-01,Operations,Phishing,High,44.9,No
+2025-04-14,Marketing,Unauthorized Access,Medium,61.9,Yes
+2025-03-21,Sales,Phishing,Low,64.2,No
+2025-03-08,Marketing,Suspicious Login,Low,4.9,No
+2025-03-03,Finance,Unauthorized Access,Medium,58.7,Yes
+2025-01-19,Sales,Malware,High,10.1,Yes
+2025-06-04,Finance,Suspicious Login,Medium,68.3,Yes
+2025-05-07,IT,Ransomware,Low,42.0,No
+2025-03-07,Operations,Malware,Medium,63.3,Yes
+2025-01-06,Operations,Phishing,Low,31.4,No
+2025-05-29,Finance,Malware,Low,15.0,No
+2025-04-22,Sales,Malware,High,17.1,No
+2025-02-12,Sales,Unauthorized Access,Low,66.3,No
+2025-06-27,Operations,Malware,Low,13.2,Yes
+2025-03-16,HR,Ransomware,High,65.9,Yes
+2025-04-25,Marketing,Unauthorized Access,Low,49.9,No
+2025-05-10,Operations,Suspicious Login,High,4.3,Yes
+2025-06-15,IT,Ransomware,Low,57.9,Yes
+2025-05-04,IT,Unauthorized Access,Low,38.3,Yes
+2025-05-26,Operations,Ransomware,High,11.6,Yes
+2025-03-25,Sales,Malware,Low,29.3,No
+2025-05-18,Sales,Malware,Low,18.1,No
+2025-02-07,Finance,Phishing,Medium,31.0,Yes
+2025-01-28,Sales,Ransomware,Medium,8.0,No
+2025-01-13,Finance,Phishing,Low,21.9,No
+2025-05-01,Finance,Suspicious Login,Low,48.4,Yes
+2025-02-17,Finance,Suspicious Login,High,48.8,No
+2025-01-30,Sales,Suspicious Login,High,47.1,Yes
+2025-06-10,Sales,Ransomware,High,71.7,No
+2025-01-21,Sales,Phishing,Medium,24.3,No
+2025-02-26,HR,Ransomware,High,49.4,No
+2025-01-13,Sales,Suspicious Login,Low,49.3,Yes
+2025-05-26,Sales,Ransomware,Low,21.2,Yes
+2025-01-31,Sales,Ransomware,High,18.5,Yes
+2025-02-02,Operations,Phishing,Medium,10.3,No
+2025-03-03,Sales,Unauthorized Access,High,15.6,No
+2025-06-23,IT,Phishing,Medium,38.6,Yes
+2025-05-10,Finance,Suspicious Login,Medium,68.5,Yes
+2025-02-27,Finance,Malware,High,31.4,Yes
+2025-06-16,Sales,Unauthorized Access,High,36.4,No
+2025-05-02,HR,Malware,High,22.2,No
+2025-01-30,Finance,Suspicious Login,Low,4.4,No
+2025-03-07,Marketing,Unauthorized Access,High,36.8,No
+2025-01-08,IT,Malware,High,3.3,Yes
+2025-02-24,Finance,Ransomware,High,68.4,No
+2025-01-06,IT,Ransomware,Medium,13.4,Yes
+2025-05-16,Sales,Unauthorized Access,High,22.6,No
+2025-01-05,HR,Suspicious Login,Medium,55.5,No
+2025-03-24,Marketing,Phishing,Low,46.7,Yes
+2025-06-03,HR,Unauthorized Access,Low,69.9,No
+2025-05-28,Sales,Phishing,Low,52.0,No
+2025-05-08,Marketing,Suspicious Login,Medium,43.1,Yes
+2025-03-18,Marketing,Ransomware,Medium,10.2,Yes
+2025-01-12,HR,Phishing,High,6.1,Yes
+2025-03-19,HR,Suspicious Login,Low,13.9,Yes
+2025-03-21,Marketing,Unauthorized Access,Low,20.4,No
+2025-01-09,Finance,Phishing,High,27.8,No
+2025-04-08,HR,Ransomware,Medium,55.6,No
+2025-02-03,HR,Unauthorized Access,Medium,7.1,No
+2025-04-23,Operations,Phishing,Medium,21.3,No
+2025-05-30,Operations,Malware,High,48.5,No
+2025-06-22,Finance,Suspicious Login,High,1.6,Yes
+2025-06-02,Finance,Suspicious Login,Low,8.7,Yes
+2025-03-29,Finance,Suspicious Login,Medium,48.7,No
+2025-01-12,Operations,Phishing,Medium,6.2,Yes
+2025-05-14,HR,Malware,High,22.6,Yes
+2025-02-27,HR,Phishing,High,59.7,Yes
+2025-02-21,Finance,Ransomware,High,16.3,Yes
+2025-03-18,Marketing,Malware,Medium,10.3,Yes
+2025-04-26,HR,Unauthorized Access,Low,12.0,No
+2025-03-14,Finance,Phishing,Low,23.4,No
+2025-01-18,HR,Suspicious Login,Low,21.8,Yes
+2025-05-10,IT,Unauthorized Access,Low,34.9,No
+2025-06-01,Marketing,Malware,Low,18.9,No
+2025-02-24,Operations,Unauthorized Access,Low,67.3,No
+2025-04-08,Finance,Phishing,High,17.1,Yes
+2025-06-10,IT,Ransomware,High,71.0,Yes
+2025-02-02,IT,Malware,Medium,14.9,No
+2025-06-16,Marketing,Unauthorized Access,Medium,11.5,Yes
+2025-05-20,Marketing,Unauthorized Access,High,8.7,No
+2025-01-14,Operations,Ransomware,High,64.6,No
+2025-04-07,IT,Unauthorized Access,Medium,56.1,No
+2025-02-18,HR,Ransomware,Medium,71.2,Yes
+2025-02-18,IT,Phishing,Medium,45.1,Yes
+2025-06-15,Sales,Unauthorized Access,High,63.1,Yes
+2025-01-01,IT,Ransomware,High,24.9,Yes
+2025-02-25,Finance,Phishing,Medium,5.3,Yes
+2025-01-15,Operations,Unauthorized Access,Medium,12.9,Yes
+2025-02-12,IT,Ransomware,Medium,20.9,Yes
+2025-04-18,Finance,Unauthorized Access,Medium,27.1,Yes
+2025-04-07,Marketing,Phishing,Low,30.8,Yes
+2025-05-31,Finance,Suspicious Login,High,57.5,No
+2025-03-29,Sales,Suspicious Login,High,26.1,Yes
+2025-02-20,Finance,Phishing,Low,25.2,Yes
+2025-03-10,Sales,Ransomware,High,38.4,Yes
+2025-05-31,Sales,Unauthorized Access,High,15.3,Yes
+2025-03-05,IT,Suspicious Login,High,36.2,Yes
+2025-05-15,IT,Unauthorized Access,Low,71.1,Yes
+2025-04-01,Marketing,Phishing,High,50.8,No
+2025-03-20,Marketing,Unauthorized Access,High,59.5,No
+2025-06-29,IT,Suspicious Login,High,61.6,Yes
+2025-01-20,Operations,Suspicious Login,High,27.2,Yes
+2025-03-27,Marketing,Suspicious Login,High,53.3,No
+2025-04-06,Finance,Phishing,Low,41.3,No
+2025-06-08,Marketing,Unauthorized Access,Low,63.9,Yes
+2025-05-17,Marketing,Malware,High,9.4,No
+2025-02-17,IT,Ransomware,Low,9.6,Yes
+2025-01-20,HR,Malware,High,30.9,No
+2025-03-23,Finance,Malware,Medium,43.9,Yes
+2025-06-19,IT,Suspicious Login,High,65.0,No
+2025-05-06,Marketing,Phishing,High,2.8,Yes
+2025-01-12,Sales,Unauthorized Access,High,71.9,No
+2025-04-11,Finance,Suspicious Login,High,43.4,Yes
+2025-01-20,Finance,Unauthorized Access,High,60.4,Yes
+2025-05-21,Marketing,Malware,High,64.6,Yes
+2025-05-20,Marketing,Unauthorized Access,Medium,24.0,No
+2025-06-29,Sales,Suspicious Login,Low,59.1,No
+2025-03-23,Finance,Unauthorized Access,Medium,29.8,Yes
+2025-02-28,Finance,Suspicious Login,Low,50.1,No
+2025-01-23,Marketing,Phishing,Medium,71.3,No
+2025-03-16,HR,Malware,Medium,45.3,Yes
+2025-03-24,Sales,Malware,Low,70.7,No
+2025-03-27,Marketing,Ransomware,High,63.5,No
+2025-06-06,Sales,Suspicious Login,High,49.5,Yes
+2025-06-20,HR,Suspicious Login,Medium,1.9,Yes
+2025-02-04,IT,Phishing,Low,8.4,No
+2025-05-06,IT,Malware,Low,51.9,No
+2025-01-22,Marketing,Malware,High,60.9,No
+2025-04-04,Finance,Suspicious Login,High,9.8,Yes
+2025-06-25,IT,Ransomware,Medium,32.3,No
+2025-01-14,Finance,Malware,Medium,47.4,No
+2025-01-31,Sales,Unauthorized Access,Medium,8.7,Yes
+2025-04-20,Operations,Unauthorized Access,Low,71.6,Yes
+2025-03-22,Marketing,Malware,High,4.9,Yes
+2025-06-23,Sales,Phishing,Medium,68.4,No
+2025-06-15,Sales,Suspicious Login,High,39.6,No
+2025-03-28,Sales,Suspicious Login,Low,62.9,Yes
+2025-04-21,Sales,Phishing,Low,19.3,No
+2025-06-18,Sales,Ransomware,Medium,62.2,Yes
+2025-06-13,HR,Malware,Medium,62.8,Yes
+2025-05-31,Operations,Suspicious Login,High,2.5,Yes
+2025-06-27,Sales,Malware,Medium,45.5,No
+2025-04-16,Marketing,Unauthorized Access,Low,13.6,No
+2025-03-04,Marketing,Unauthorized Access,Medium,36.7,Yes
+2025-04-02,HR,Ransomware,Medium,31.0,No
+2025-06-28,IT,Ransomware,Medium,20.4,No
+2025-05-08,Finance,Ransomware,Medium,65.7,Yes
+2025-05-14,IT,Malware,Medium,13.8,Yes
+2025-06-09,HR,Phishing,Medium,14.3,Yes
+2025-01-12,Sales,Unauthorized Access,Low,9.9,No
+2025-04-01,HR,Unauthorized Access,High,47.1,No
+2025-02-28,Marketing,Malware,High,50.6,No
+2025-03-31,Finance,Unauthorized Access,High,23.9,Yes
+2025-05-04,IT,Unauthorized Access,Medium,61.5,Yes
+2025-05-06,HR,Ransomware,Low,58.9,Yes
+2025-01-06,HR,Suspicious Login,Medium,60.5,Yes
+2025-01-12,HR,Phishing,Medium,23.5,Yes
+2025-01-02,Operations,Suspicious Login,High,68.0,Yes
+2025-03-30,Sales,Unauthorized Access,Medium,67.5,Yes
+2025-05-17,Finance,Suspicious Login,Medium,39.4,No
+2025-05-30,Finance,Unauthorized Access,Low,41.3,No
+2025-03-18,Sales,Suspicious Login,Low,32.2,No
+2025-05-24,IT,Phishing,High,21.2,No
+2025-06-28,Marketing,Malware,Medium,18.5,Yes
+2025-02-18,Finance,Suspicious Login,High,52.0,No
+2025-02-20,Marketing,Malware,Low,50.8,Yes
+2025-06-02,Sales,Ransomware,Low,48.2,No
+2025-02-14,Sales,Unauthorized Access,High,66.3,Yes
+2025-01-27,Marketing,Unauthorized Access,Medium,14.6,No
+2025-01-09,IT,Suspicious Login,Low,13.5,No
+2025-04-11,HR,Ransomware,Medium,65.6,No
+2025-06-24,IT,Unauthorized Access,Medium,29.6,No
+2025-03-23,IT,Phishing,High,67.1,Yes
+2025-04-12,IT,Ransomware,Low,21.7,No
+2025-05-28,Operations,Suspicious Login,Low,27.6,Yes
+2025-03-06,Finance,Malware,High,71.1,Yes
+2025-05-15,HR,Unauthorized Access,Medium,58.4,Yes
+2025-01-17,Finance,Ransomware,Low,16.9,No
+2025-02-23,Finance,Malware,Low,10.1,Yes
+2025-02-03,Finance,Ransomware,High,61.4,No
+2025-01-31,Marketing,Ransomware,Medium,52.9,No
+2025-05-25,IT,Ransomware,High,39.1,No
+2025-01-08,Finance,Suspicious Login,High,66.2,No
+2025-04-03,IT,Unauthorized Access,High,23.4,Yes
+2025-03-15,HR,Ransomware,Medium,5.2,Yes
+2025-06-30,HR,Malware,Low,9.9,No
+2025-03-03,IT,Unauthorized Access,Medium,50.0,No
+2025-02-09,Marketing,Ransomware,High,10.5,No
+2025-05-01,Sales,Phishing,High,5.9,No
+2025-05-28,Marketing,Ransomware,High,65.6,No
+2025-03-28,IT,Ransomware,High,29.0,No
+2025-02-09,Sales,Ransomware,Low,26.0,No
+2025-01-21,HR,Phishing,Low,5.3,No
+2025-02-26,Finance,Unauthorized Access,Low,17.3,Yes
+2025-05-25,Sales,Malware,High,64.3,Yes
+2025-05-28,IT,Ransomware,High,25.1,No
+2025-02-27,Sales,Malware,High,70.8,No
+2025-05-27,HR,Malware,High,54.4,Yes
+2025-05-28,IT,Suspicious Login,Medium,66.7,No
+2025-02-10,HR,Unauthorized Access,Medium,48.4,Yes
+2025-06-09,Marketing,Ransomware,Low,5.0,Yes
+2025-05-05,Operations,Unauthorized Access,High,45.8,Yes
+2025-03-03,HR,Malware,Low,60.8,Yes
+2025-05-12,Marketing,Unauthorized Access,High,3.8,Yes
+2025-04-22,Finance,Ransomware,High,24.6,Yes
+2025-02-23,Operations,Unauthorized Access,Medium,31.2,No
+2025-03-12,Operations,Ransomware,Medium,4.6,Yes
+2025-06-12,Sales,Suspicious Login,Low,53.0,No
+2025-02-27,Marketing,Suspicious Login,High,50.8,Yes
+2025-06-20,Sales,Phishing,High,2.1,Yes
+2025-02-22,Finance,Ransomware,Low,14.9,No
+2025-04-29,HR,Suspicious Login,High,49.1,Yes
+2025-01-05,IT,Malware,High,49.7,Yes
+2025-05-01,IT,Malware,Low,65.8,No
+2025-03-08,HR,Phishing,High,22.8,No
+2025-05-30,Marketing,Malware,Medium,70.0,No
+2025-06-25,Marketing,Ransomware,Low,29.6,Yes
+2025-02-16,Marketing,Unauthorized Access,High,40.9,Yes
+2025-04-26,Operations,Malware,Medium,55.0,Yes
+2025-03-31,Operations,Suspicious Login,Low,51.4,No
+2025-01-27,Operations,Phishing,High,40.8,Yes
+2025-05-09,IT,Phishing,Medium,68.6,Yes
+2025-02-05,Operations,Phishing,Low,1.7,Yes
+2025-04-11,HR,Ransomware,Medium,24.3,Yes
+2025-05-07,Finance,Unauthorized Access,High,68.1,No
+2025-01-06,Marketing,Phishing,Medium,60.5,No
+2025-01-26,Marketing,Malware,Low,51.3,No
+2025-02-07,Operations,Unauthorized Access,Medium,21.1,No
+2025-05-01,Finance,Phishing,Medium,46.2,No
+2025-02-20,IT,Suspicious Login,Low,9.0,No
+2025-06-16,Operations,Phishing,High,15.5,Yes
+2025-01-08,IT,Unauthorized Access,Low,43.0,Yes
+2025-02-16,HR,Ransomware,High,3.1,No
+2025-04-17,Finance,Phishing,Medium,63.1,No
+2025-03-09,Finance,Suspicious Login,Low,29.0,Yes
+2025-04-24,Sales,Malware,Medium,2.5,Yes
+2025-02-16,IT,Ransomware,Medium,31.3,Yes
+2025-01-07,Operations,Ransomware,Low,30.5,No
+2025-04-28,Sales,Suspicious Login,Medium,64.3,Yes
+2025-05-21,IT,Unauthorized Access,Low,30.7,Yes
+2025-05-14,HR,Suspicious Login,Low,25.4,No
+2025-06-10,IT,Phishing,High,20.4,No
+2025-03-21,HR,Phishing,High,11.6,Yes
+2025-05-24,Operations,Phishing,Medium,20.0,No
+2025-01-16,HR,Ransomware,High,10.3,No
+2025-04-25,Marketing,Malware,Low,42.8,No
+2025-03-10,IT,Unauthorized Access,High,43.9,Yes
+2025-01-18,Finance,Malware,Medium,54.9,No
+2025-03-16,IT,Phishing,Medium,34.9,Yes
+2025-05-27,Operations,Suspicious Login,High,25.2,Yes
+2025-05-10,IT,Phishing,Medium,65.6,No
+2025-02-11,HR,Unauthorized Access,Low,31.5,No
+2025-04-20,Operations,Unauthorized Access,High,27.1,Yes
+2025-05-28,IT,Malware,High,3.6,Yes
+2025-01-24,Marketing,Ransomware,Low,27.3,Yes
+2025-03-07,Sales,Phishing,Medium,68.7,No
+2025-04-17,Operations,Malware,Medium,69.9,Yes
+2025-06-05,Finance,Phishing,Low,71.3,Yes
+2025-01-14,HR,Ransomware,High,11.9,Yes
+2025-06-05,Sales,Malware,Low,50.1,Yes
+2025-06-07,HR,Malware,Medium,5.6,No
+2025-03-24,Operations,Phishing,High,4.4,Yes
+2025-05-11,IT,Unauthorized Access,High,28.8,Yes
+2025-04-03,Sales,Ransomware,High,48.0,No
+2025-06-04,Operations,Phishing,High,14.4,Yes
+2025-06-05,Marketing,Unauthorized Access,High,26.8,No
+2025-04-09,Marketing,Phishing,High,57.9,No
+2025-06-02,Sales,Ransomware,High,59.3,Yes
+2025-01-14,HR,Suspicious Login,High,31.8,No
+2025-03-12,IT,Phishing,High,66.6,Yes
+2025-03-31,Operations,Unauthorized Access,Low,26.6,No
+2025-02-16,HR,Suspicious Login,High,68.0,No
+2025-06-13,Finance,Malware,High,55.0,No
+2025-05-13,Finance,Malware,Low,7.2,No
+2025-06-30,Sales,Phishing,High,22.4,No
+2025-02-05,Sales,Unauthorized Access,Medium,27.0,Yes
+2025-01-11,Marketing,Unauthorized Access,Low,18.4,No
+2025-02-10,Sales,Unauthorized Access,Low,9.5,No
+2025-02-04,Finance,Malware,Medium,69.1,Yes
+2025-06-26,Sales,Ransomware,Low,49.8,Yes
+2025-02-22,HR,Suspicious Login,Medium,13.8,No
+2025-04-22,Operations,Unauthorized Access,Low,10.7,Yes
+2025-01-05,Operations,Phishing,Low,32.1,Yes
+2025-05-07,IT,Ransomware,High,34.2,No
+2025-06-20,Operations,Unauthorized Access,High,49.4,Yes
+2025-06-20,HR,Phishing,Low,52.4,No
+2025-02-06,Finance,Suspicious Login,Medium,64.4,No
+2025-02-04,Finance,Suspicious Login,Medium,30.4,Yes
+2025-06-25,Operations,Malware,Low,70.2,No
+2025-06-24,Marketing,Suspicious Login,Low,49.7,Yes
+2025-06-16,IT,Phishing,Low,64.6,No
+2025-06-24,IT,Unauthorized Access,Low,48.4,No
+2025-05-26,Operations,Malware,High,66.0,Yes
+2025-03-22,Operations,Malware,High,25.8,No
+2025-06-29,Marketing,Suspicious Login,Low,20.5,Yes
+2025-01-10,Marketing,Ransomware,Medium,65.7,Yes
+2025-03-13,Finance,Phishing,High,8.1,No
+2025-05-26,Sales,Suspicious Login,Low,16.8,Yes
+2025-04-26,IT,Unauthorized Access,Low,43.3,No
+2025-03-13,Marketing,Phishing,High,51.0,Yes
+2025-04-29,HR,Phishing,Low,14.9,Yes
+2025-04-25,Operations,Ransomware,High,32.3,Yes
+2025-01-03,Marketing,Suspicious Login,High,29.0,No
+2025-05-21,Finance,Phishing,High,26.8,No
+2025-05-28,HR,Ransomware,High,56.7,No
+2025-05-28,Finance,Phishing,High,10.1,Yes
+2025-03-14,Operations,Unauthorized Access,High,39.9,Yes
+2025-02-18,Sales,Ransomware,High,14.6,Yes
+2025-05-02,HR,Phishing,High,60.3,Yes
+2025-03-02,HR,Suspicious Login,High,58.5,Yes
+2025-02-08,Marketing,Unauthorized Access,High,7.6,Yes
+2025-01-04,IT,Malware,High,51.4,No
+2025-05-12,Operations,Suspicious Login,Medium,16.5,Yes
+2025-05-15,Operations,Suspicious Login,Medium,50.6,No
+2025-03-10,Sales,Suspicious Login,Medium,5.9,No
+2025-04-17,Finance,Phishing,High,35.7,Yes
+2025-06-01,Finance,Unauthorized Access,High,9.9,Yes
+2025-06-07,Finance,Unauthorized Access,Low,27.9,No
+2025-02-09,Operations,Malware,High,66.2,Yes
+2025-01-01,Marketing,Suspicious Login,Medium,8.4,No
+2025-05-19,HR,Malware,Medium,32.5,No
+2025-04-29,Marketing,Suspicious Login,Low,40.9,No
+2025-06-09,Operations,Phishing,Low,61.5,No
+2025-03-19,Sales,Phishing,High,6.9,Yes
+2025-03-02,HR,Phishing,Medium,34.9,Yes
+2025-01-28,Marketing,Malware,Low,45.3,No
+2025-02-03,Marketing,Suspicious Login,Low,37.0,Yes
+2025-05-03,IT,Suspicious Login,Low,15.0,Yes
+2025-06-06,IT,Malware,Low,70.8,Yes
+2025-05-11,HR,Suspicious Login,High,34.5,Yes
+2025-02-28,Finance,Malware,High,37.0,No
+2025-06-07,IT,Unauthorized Access,Low,51.9,No
+2025-03-22,IT,Suspicious Login,Low,65.2,No
+2025-05-22,Sales,Ransomware,Low,8.8,Yes
+2025-04-17,Finance,Ransomware,Low,25.0,No
+2025-04-06,Marketing,Ransomware,Low,36.7,No
+2025-05-15,Operations,Unauthorized Access,High,32.8,Yes
+2025-03-13,IT,Phishing,High,60.6,Yes
+2025-01-27,HR,Malware,High,27.1,Yes
+2025-03-22,Operations,Suspicious Login,High,57.5,No
+2025-03-22,IT,Malware,High,52.6,No
+2025-04-08,IT,Suspicious Login,High,50.1,No
+2025-02-13,Marketing,Malware,High,48.3,No
+2025-03-28,IT,Ransomware,Medium,18.4,Yes
+2025-03-09,HR,Unauthorized Access,Medium,33.4,Yes
+2025-03-25,Finance,Ransomware,High,2.0,No
+2025-06-14,HR,Ransomware,Medium,31.0,No
+2025-04-06,Operations,Suspicious Login,High,22.4,Yes
+2025-01-03,Marketing,Ransomware,Medium,68.4,Yes
+2025-04-09,Operations,Suspicious Login,Medium,35.4,Yes
+2025-02-22,Operations,Ransomware,Medium,69.9,Yes
+2025-03-29,Finance,Malware,Medium,63.7,Yes
+2025-02-26,Marketing,Phishing,Medium,6.8,Yes
+2025-04-02,Marketing,Ransomware,Low,40.2,Yes
